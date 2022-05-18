@@ -8,6 +8,6 @@ namespace Entities
 {
     internal class clsRespuesta
     {
-
+        int IdRespuesta { get; set; };
     }
 }
